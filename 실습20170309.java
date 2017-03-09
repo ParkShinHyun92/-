@@ -13,7 +13,7 @@ public class ½Ç½À20170309 {
 		if(number==1){
 			System.out.print("ParkShinHyun");
 		}else{
-			System.out.print("defalut");
+			System.out.print("You must type number 1");
 		}
 		
 		}
