@@ -9,5 +9,5 @@
     : node.js를 통해 노트와 스케쥴이 저장될 공간 만들기
   
 * Data Base
-  - sqLite
-      : 노트나 스케쥴에 저장된 데이터를 저장하기
+  - SQLite 
+    : SQLite를 통해 노트와 스케쥴이 저장될 database
