@@ -6,8 +6,11 @@
     
 * Back end
   - node.js
-    : node.js를 통해 노트와 스케쥴이 저장될 공간 만들기
+    : node.js를 통해 노트가 저장될 공간 만들기
   
 * Data Base
   - SQLite 
-    : SQLite를 통해 노트와 스케쥴이 저장될 database
+    : SQLite를 통해 노트의 내용이 저장될 database
+    
+ * 추가 기능
+   - 스케쥴러
